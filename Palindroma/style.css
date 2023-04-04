@@ -1,0 +1,19 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body{
+  font-family: Arial, Helvetica, sans-serif;
+  color: white;
+  background-color: navy;
+}
+
+#output{
+  display: flex;
+  justify-content: center;
+  margin: 100px;
+  font-weight: 700;
+  font-size: 1.8rem;
+}
